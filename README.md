@@ -1,4 +1,4 @@
-# Voice Analysis System with ESP32 Integration
+# Voice Analysis For the hearing-impaired with ESP32 Integration
 
 A complete voice analysis system that identifies speakers and emotions, then sends the results to an ESP32 device via TCP for display and haptic feedback.
 
